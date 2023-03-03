@@ -1,0 +1,22 @@
+body
+{
+    color: white;
+    background-color: black;
+    font-family: Verdana,sans-serif;
+
+}
+
+h1
+{
+    text-align: center;
+}
+
+p
+{
+    font-size: large;
+}
+
+iframe
+{
+    float: right;
+}
